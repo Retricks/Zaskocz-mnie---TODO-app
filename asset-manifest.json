@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zaskocz-mnie---TODO-app/static/css/main.f7b1584e.css",
+    "main.js": "/Zaskocz-mnie---TODO-app/static/js/main.ca324e9e.js",
+    "index.html": "/Zaskocz-mnie---TODO-app/index.html",
+    "main.f7b1584e.css.map": "/Zaskocz-mnie---TODO-app/static/css/main.f7b1584e.css.map",
+    "main.ca324e9e.js.map": "/Zaskocz-mnie---TODO-app/static/js/main.ca324e9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7b1584e.css",
+    "static/js/main.ca324e9e.js"
+  ]
+}
